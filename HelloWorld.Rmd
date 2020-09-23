@@ -1,6 +1,6 @@
 ---
 output:
-  pdf_document: default
-  html_document: default
+  md_document:
+    variant: markdown_github
 ---
 ## This is a markdown file
